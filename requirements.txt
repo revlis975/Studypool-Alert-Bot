@@ -1,0 +1,5 @@
+Selenium
+Chromedriver 
+python==3.7.4
+telegram_send
+win10toast
