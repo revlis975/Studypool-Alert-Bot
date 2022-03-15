@@ -1,5 +1,5 @@
-Selenium
-Chromedriver 
+Selenium (Latest)
+Chromedriver (Latest)
 python==3.7.4
 telegram_send
-win10toast
+win10toast (only for Windows 10)
